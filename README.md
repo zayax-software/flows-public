@@ -1,4 +1,4 @@
-﻿# TabZ
+﻿# Flows
 
 IntelliJ-IDE-Plugin: zusammengehörige Dateien als Subtabs oberhalb des Editors.
 
