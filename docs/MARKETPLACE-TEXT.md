@@ -28,7 +28,7 @@ Flows is a tool suite for JetBrains IDEs. FileFlow organizes the editor, GuideFl
 **Feedback:** Report issues through the Flows page on JetBrains Marketplace.
 ---
 ## Change notes (0.1.0)
-First release of FileFlow, GuideFlow, and CodeFlow.
+- First release of FileFlow, GuideFlow, and CodeFlow.
 ---
 ## Categories
 - User Interface
