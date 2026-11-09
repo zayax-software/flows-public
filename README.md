@@ -11,7 +11,5 @@ JetBrains-IDE-Plugin: Tool Suite for several IDE's
 - [End User License Agreement (EN)](docs/FLOWS-EULA.md)
 - [Endnutzer-Lizenz (DE)](docs/FLOWS-EULA.de.md)
 - [Marketplace-Texts](docs/MARKETPLACE-TEXT.md)
-- [Release-Freigabe (intern Checklist)](docs/RELEASE-FREIGABE.md)
-- [Security & License](docs/SECURITY-AND-LICENSE.md)
 
 **Plugin-ID:** `com.zayax.flows` · **Vendor:** ZaYaX
