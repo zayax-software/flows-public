@@ -13,13 +13,16 @@ Related files as compact tabs above the editor.
 Flows groups related project files and shows them as **compact tabs** directly above the editor in JetBrains IDEs.
 
 **Features:**
+- Open windos and files can be organized and recalled in so called setups
+- Hover Sync can highlight same files and tabs, when hovering above it
+- Hover Preview can load files by just hovering above it - and close them, when moving the cursor away
 - Tabs for related files in the same folder (Angular, React, Vue, Spring, ASP.NET, Nest, Playwright, Cypress, npm/tsconfig/env, and more)
 - Optional scroll-to-file in the Project view when hovering a tab
 - Custom rules in **Settings → Tools → Flows**
 - Splittab workflow for side-by-side related files
 **Supported IDEs:** IntelliJ IDEA, WebStorm, Rider, and other IntelliJ Platform IDEs.
   
-**Feedback:** Report issues at [your contact or GitHub issues URL].
+**Feedback:** Report issues at [email address coming soon].
 
 ---
 ## Change notes (0.1.0)
