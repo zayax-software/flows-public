@@ -1,11 +1,11 @@
-# TabZ — End User License Agreement (Proprietary)
+# Flows — End User License Agreement (Proprietary)
 
 **JetBrains Marketplace:** **Custom license** → **License URL:**
 
-`https://raw.githubusercontent.com/zayax-software/TabZ/main/docs/TABZ-EULA.md`
+`https://raw.githubusercontent.com/zayax-software/Flows/main/docs/Flows-EULA.md`
 
-**Plugin:** TabZ  
-**Plugin ID:** `com.zayax.tabz`  
+**Plugin:** Flows  
+**Plugin ID:** `com.zayax.flows`  
 **Licensor / Developer:** ZaYaX (“Developer”, “we”, “us”)  
 **Effective:** upon installation or first use
 
@@ -31,7 +31,7 @@ You may **not**:
 
 ## 3. Ownership
 
-TabZ and all copies remain the **property of the Developer**. This EULA does not sell the plugin to you—only a limited right to use it.
+Flows and all copies remain the **property of the Developer**. This EULA does not sell the plugin to you—only a limited right to use it.
 
 ## 4. Updates
 
@@ -43,15 +43,15 @@ Unless the Developer states otherwise, support is **best-effort** and not guaran
 
 ## 6. Disclaimer of warranty
 
-**TABZ IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND**, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+**FLOWS IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND**, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
 
-The Developer does not warrant that TabZ will be uninterrupted, error-free, or compatible with every project or IDE configuration.
+The Developer does not warrant that Flows will be uninterrupted, error-free, or compatible with every project or IDE configuration.
 
 ## 7. Limitation of liability
 
-**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW**, THE DEVELOPER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR BUSINESS, ARISING FROM OR RELATED TO YOUR USE OF TABZ.
+**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW**, THE DEVELOPER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR BUSINESS, ARISING FROM OR RELATED TO YOUR USE OF FLOWS.
 
-THE DEVELOPER’S **TOTAL LIABILITY** FOR ANY CLAIM ARISING OUT OF OR RELATED TO THIS EULA OR TABZ SHALL NOT EXCEED **FIFTY EUROS (€50)** OR THE AMOUNT YOU PAID FOR TABZ VIA JETBRAINS MARKETPLACE IN THE TWELVE (12) MONTHS BEFORE THE CLAIM—**WHICHEVER IS GREATER**. FOR A FREE PLUGIN, THE CAP IS **FIFTY EUROS (€50)** UNLESS MANDATORY LAW REQUIRES OTHERWISE.
+THE DEVELOPER’S **TOTAL LIABILITY** FOR ANY CLAIM ARISING OUT OF OR RELATED TO THIS EULA OR FLOWS SHALL NOT EXCEED **FIFTY EUROS (€50)** OR THE AMOUNT YOU PAID FOR FLOWS VIA JETBRAINS MARKETPLACE IN THE TWELVE (12) MONTHS BEFORE THE CLAIM—**WHICHEVER IS GREATER**. FOR A FREE PLUGIN, THE CAP IS **FIFTY EUROS (€50)** UNLESS MANDATORY LAW REQUIRES OTHERWISE.
 
 Nothing in this section limits liability where limitation is not permitted by law (e.g. injury caused by intent or gross negligence, where applicable).
 
@@ -61,11 +61,11 @@ If you are a **consumer** in the European Union and the Developer qualifies as a
 
 ## 9. Termination
 
-This license ends if you breach this EULA or uninstall the plugin. On termination, you must stop using TabZ and destroy copies in your possession. Sections that by nature should survive (ownership, disclaimers, liability limits) survive termination.
+This license ends if you breach this EULA or uninstall the plugin. On termination, you must stop using Flows and destroy copies in your possession. Sections that by nature should survive (ownership, disclaimers, liability limits) survive termination.
 
 ## 10. Changes
 
-The Developer may update this EULA for **new versions** of TabZ. Continued use after notice of updated terms for a new version constitutes acceptance for that version.
+The Developer may update this EULA for **new versions** of Flows. Continued use after notice of updated terms for a new version constitutes acceptance for that version.
 
 ## 11. Governing law
 
