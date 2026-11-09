@@ -7,7 +7,7 @@ Flows
 ZaYaX
 
 ## Tagline
-Related files as compact tabs above the editor.
+A advanced tool suite for a better workflow.
 
 ## Description
 Flows groups related project files and shows them as **compact tabs** directly above the editor in JetBrains IDEs.
