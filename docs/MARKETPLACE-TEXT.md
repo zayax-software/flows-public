@@ -15,7 +15,7 @@ Flows is a tool suite for JetBrains IDEs. FileFlow organizes the editor, GuideFl
 - **Setups & Favorites** save open windows and files and open that layout again
 - Hovering a tab can scroll to that file in the Project view
 - Rules are edited in **Settings → Tools → Flows**
-**GuideFlow**
+- ***GuideFlow***
 - **Hover Sync** highlights the same file across open tabs
 - **Hover Preview** opens a file while the pointer rests on it and closes it when the pointer leaves
 - **Web Connections** draw a line from a function, variable, or constant to its declarations and uses
