@@ -2,7 +2,7 @@
 
 JetBrains-IDE-Plugin: Tool Suite for several IDE's
 
-**Organisation:** [github.com/zayax-software](https://github.com/zayax-software)
+**Organization:** [github.com/zayax-software](https://github.com/zayax-software)
 
 - **Reference:** JetBrains Marketplace (Closed Test / Release)
 
