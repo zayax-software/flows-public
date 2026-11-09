@@ -7,7 +7,7 @@ ZaYaX
 An advanced tool suite for a better workflow.
 ## Description
 Flows is a tool suite for JetBrains IDEs. FileFlow organizes the editor, GuideFlow follows the pointer, and CodeFlow changes how code is edited.
--***FileFlow***
+- ***FileFlow***
 - **Sub Tabs** show related files from the same folder as compact tabs above the editor, including Angular, React, Vue, Spring, ASP.NET, Nest, Playwright, Cypress, and npm, tsconfig, and env files
 - **Side Tabs** show those relations as a vertical bar beside the editor
 - **Sub Grouping** groups those tabs and gives each group a color
