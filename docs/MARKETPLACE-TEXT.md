@@ -17,7 +17,6 @@ Flows groups related project files and shows them as **compact tabs** directly a
 - Optional scroll-to-file in the Project view when hovering a tab
 - Custom rules in **Settings → Tools → Flows**
 - Splittab workflow for side-by-side related files
-- 
 **Supported IDEs:** IntelliJ IDEA, WebStorm, Rider, and other IntelliJ Platform IDEs.
   
 **Feedback:** Report issues at [your contact or GitHub issues URL].
