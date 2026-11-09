@@ -19,6 +19,7 @@ Flows groups related project files and shows them as **compact tabs** directly a
 - Tabs for related files in the same folder (Angular, React, Vue, Spring, ASP.NET, Nest, Playwright, Cypress, npm/tsconfig/env, and more)
 - Optional scroll-to-file in the Project view when hovering a tab
 - Custom rules in **Settings → Tools → Flows**
+- CodeToys for a better work flow for your typing skills
 - Splittab workflow for side-by-side related files
 **Supported IDEs:** IntelliJ IDEA, WebStorm, Rider, and other IntelliJ Platform IDEs.
   
@@ -26,7 +27,7 @@ Flows groups related project files and shows them as **compact tabs** directly a
 
 ---
 ## Change notes (0.1.0)
-First release: tab bar, built-in stack rules, and settings.
+First release: Several Tools.
 ---
 
 ## Categories
