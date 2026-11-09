@@ -15,7 +15,7 @@ JetBrains s.r.o. (“JetBrains”) operates JetBrains Marketplace and may distri
 
 ## 1. Grant of license
 
-Subject to this EULA, the Developer grants you a **limited, worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license** to **install and use** TabZ in JetBrains IDEs that support the plugin, **for free**, for your internal development and other lawful purposes.
+Subject to this EULA, the Developer grants you a **limited, worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license** to **install and use** Flows in JetBrains IDEs that support the plugin, **for free**, for your internal development and other lawful purposes.
 
 For this **Free Plugin**, the license is **perpetual** for the version(s) you obtained through JetBrains Marketplace (including updates made available to you through the same channel), unless this EULA or applicable law says otherwise.
 
